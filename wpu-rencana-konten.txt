@@ -3,6 +3,7 @@ rencana wpu
 - JAvascript
   * ES6
   * Framework
+ - Algoritma dan struktur data
 - PHP frameworks
 - Interview
 - Vlogs
