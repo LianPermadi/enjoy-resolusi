@@ -1,5 +1,8 @@
 rencana wpu
 
 - JAvascript
+  * ES6
+  * Framework
 - PHP frameworks
+- Interview
 - Vlogs
