@@ -3,8 +3,11 @@ rencana wpu
 - JAvascript
   * ES6
   * Framework
+    ^angular
+    ^react
  - Algoritma dan struktur data
 - PHP frameworks
+  * Laravel
 - Interview
 - Vlogs
 - wkwkwkw
